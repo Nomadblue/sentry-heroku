@@ -2,3 +2,4 @@ sentry
 psycopg2
 uwsgi
 dj-database-url
+django-smtp-ssl
